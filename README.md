@@ -4,6 +4,6 @@ To test the histogram on Linux you need to run
 ```none
 Rscript main.R wheatly.jpg
 ```
-in a folder that has `main.R` and `get_lightness.py`. 
+in a folder that has `main.R` and `get_lightness.py`. (Assuming you have both a python and an R interpreter installed)
 
 An Rplots.pdf file will be generated, which contains the histogram.
