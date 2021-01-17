@@ -4,7 +4,7 @@ To test the histogram on Linux you need to run
 ```none
 Rscript main.R wheatly.jpg
 ```
-in a folder that has `main.R` and `get_lightness.py`. 
+in a folder that has `main.R`, `get_lightness.py`, and `wheatly.jpg`. 
 
 Note: This assumes you have both a Python and an R interpreter installed.
 
