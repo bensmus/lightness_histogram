@@ -1,4 +1,4 @@
-Makes a pdf histogram that describes how often a certain pixel lightness occurs in an image. For 8 bit photos like "wheatly.jpg", the max lightness is 255.
+Makes a pdf histogram that describes how often a certain pixel lightness occurs in an image. For 8 bit photos like "wheatly.jpg", the max lightness is 255. Similar histograms appear in photo editing applications.
 
 To test the histogram on Linux you need to run 
 ```none
